@@ -7,7 +7,7 @@ permalink: /install/
 # Windows Installation
 Download the .exe file and go to your 'Downloads' folder.
 
-![bates-download](/assets/images/install-pics/bates-download.png)
+[![bates-download](/assets/images/install-pics/bates-download.png)](/assets/images/install-pics/bates-download.png)
 
 Click on the downloaded .exe file named 'Bates_Stamping_1.0'.
 
@@ -50,4 +50,4 @@ Scroll down to 'Bates Stamping', click on it, then click 'Uninstall'.
 ![bates-uninstall-button](/assets/images/install-pics/bates-uninstall-button.png)
 
 # Mac
-The software is currently unavailable for Mac users. This will be coming soon.
+The software is currently unavailable for Mac.
