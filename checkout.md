@@ -4,18 +4,6 @@ title: Checkout
 permalink: /checkout
 ---
 
-Proceed to checkout  
+The Bates stamping software is available for a $10 annual fee. There is also a 30-day free trial option. 
 
 {% include checkout.html %}  
-
-Add to cart  
-
-{% include add-to-cart.html %}
-
-View Cart  
-
-{% include view-cart.html %}
-
-Product Sales page  
-
-{% include product-page.html %}
