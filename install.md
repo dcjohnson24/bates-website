@@ -4,7 +4,8 @@ title: Installation
 permalink: /install/
 ---
 
-## Windows Installation
+Note that this software is currently only available on Windows.
+
 Download the .exe file and go to your 'Downloads' folder.
 
 [![bates-download](/assets/images/install-pics/bates-download.png)](/assets/images/install-pics/bates-download.png)
@@ -49,5 +50,3 @@ Scroll down to 'Bates Stamping', click on it, then click 'Uninstall'.
 
 ![bates-uninstall-button](/assets/images/install-pics/bates-uninstall-button.png)
 
-## Mac
-The software is currently unavailable for Mac.
